@@ -19,6 +19,8 @@ For more information, [see](https://en.wikipedia.org/wiki/Blockchain)
 
 <img src="https://github.com/akshaybahadur21/Block-Chain/blob/master/block.png">
 
+<img src="https://github.com/akshaybahadur21/Block-Chain/blob/master/test.png">
+
 
 ### Execution
 To run the code, type `python block_chain.py`
